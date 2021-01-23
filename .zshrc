@@ -19,6 +19,14 @@ alias pip=pip3
 alias lc='colorls -lA --sd'
 alias vim=nvim
 
+# GIT ALIAS
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit -m'
+alias gd='git diff'
+alias gco='git checkout '
+
 # ZSH_THEME="agnoster"
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
