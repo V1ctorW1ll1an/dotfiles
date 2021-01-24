@@ -21,11 +21,12 @@ alias vim=nvim
 
 # GIT ALIAS
 alias gs='git status '
-alias ga='git add '
-alias gb='git branch '
+alias ga='git add'
+alias gb='git branch'
 alias gc='git commit -m'
 alias gd='git diff'
 alias gco='git checkout '
+alias gp='git push'
 
 # ZSH_THEME="agnoster"
 ZSH_THEME="powerlevel10k/powerlevel10k"
